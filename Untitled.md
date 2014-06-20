@@ -1,9 +1,7 @@
----
-title: "Untitled"
-output: 
-  html_document: 
-    keep_md: true
----
+# Untitled
+J.J. Allaire  
+Joe Cheng  
+Sept 22nd, 1975  
 
 ## Slide One
 

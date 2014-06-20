@@ -1,5 +1,9 @@
 ---
 title: "Untitled"
+author: 
+  - "J.J. Allaire"
+  - "Joe Cheng"
+date: Sept 22nd, 1975
 output: 
   html_document: 
     keep_md: true
